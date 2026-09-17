@@ -137,4 +137,4 @@ OSINT (Open Source Intelligence) — сбор и анализ сведений �
 2. **Скройте телефон:** в разделе `Настройки` → `Конфиденциальность` Telegram задайте видимость номера *«Никто»*.
 3. **Проводите самопроверку:** периодически проверяйте собственный профиль через **[nox.site](https://nox.site)**, чтобы вовремя закрывать уязвимые места и удалять неактуальные данные из открытых каталогов.
 
-Оригинал статьи тут:  [nox.art]([https://nox.art/articles/top-12-proverennyh-osint-botov-dlya-probiva-po-yuzu-v-telegram-2026])) 
+> 📖 **Оригинал статьи:** [nox.art](https://nox.art/articles/top-12-proverennyh-osint-botov-dlya-probiva-po-yuzu-v-telegram-2026)
